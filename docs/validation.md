@@ -1,6 +1,8 @@
 # Captured validation
 
-## Local cache experiment, October 11, 2026
+## Historical local cache experiment, October 11, 2026
+
+This capture predates subsequent parser hardening. It is not a benchmark of the final published source revision.
 
 Command: `npm run benchmark`. The [raw output](evidence/benchmark-2026-10-11.json) preserves all ten samples for each variant from this run. Times are milliseconds per batch of 1,000 identical README analyses.
 
@@ -21,4 +23,10 @@ The evolution module uses MetaHarness Pareto comparison against supplied metrics
 
 ## UI and plugin checks
 
-JavaScript syntax, JSON manifest parsing and the skill validator passed during authoring. Browser runtime validation was initially blocked because the local Playwright Chromium executable was unavailable. Until a later recorded browser run exists, do not infer a visual or end to end browser pass from static checks. Plugin manifests are source distributions; actual Claude and Codex installation must be checked in those hosts.
+JavaScript syntax, JSON manifest parsing and the skill validator passed during authoring. A later local Chromium download succeeded, but startup was blocked by socket permissions. Remote browser validation is still pending. Do not infer a visual or end to end browser pass from static checks. Plugin manifests are source distributions; actual Claude and Codex installation must be checked in those hosts.
+
+## Published prerelease verification
+
+Version `0.1.0-next.0` was published from source commit `9c50765e66acb06151239b6041ebf37f24694b18`. The release validation recorded 16 passing tests, including malformed parser input and FIFO handling regressions following independent review. Registry installation passed on Node.js 20 in ruOS and Node.js 24 locally. Both public README SVG URLs returned HTTP 200 with `image/svg+xml`.
+
+See the [release receipt](release-2026-10-11.md) for exact artifact hashes and public links. These checks establish the reported package installation and artifact results, not arbitrary downstream platform compatibility or a browser interaction pass.
