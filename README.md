@@ -4,11 +4,11 @@
 
 Check README portability and command risks before publishing a package. Get line numbered findings and a reviewable verification plan through a CLI, terminal view, browser or MCP server.
 
-**Prerelease: `0.1.0-next.0`.** Static analysis does not execute README commands or prove that an installation succeeds. No model API key is required.
+**Published prerelease: [`0.1.0-next.0`](https://www.npmjs.com/package/readme-proof/v/0.1.0-next.0).** Static analysis does not execute README commands or prove that an installation succeeds. No model API key is required.
 
 ## Quick start
 
-After this version is available on npm:
+Install the published prerelease:
 
 ```sh
 npx readme-proof@0.1.0-next.0 analyze README.md --target npm
@@ -49,9 +49,13 @@ This repository includes a reusable `readme-proof` skill, a portable Agent Plugi
 
 Export a JSON report with `readme-proof rvf REPORT.json OUT.rvf`, then inspect it with `readme-proof rvf-read OUT.rvf`. The adapter uses `@ruvector/rvf-wasm@0.1.9` to create a genuine RVF binary plus a mandatory `OUT.rvf.receipt.json` sidecar. Keep both files together. The binary stores a digest vector and the sidecar stores the report. Verification checks integrity, not authenticity, semantic similarity or correctness. Report-only CLI exports do not bind the original README bytes; their Markdown hash represents an empty input. MCP receipts generated from Markdown bind the supplied input bytes. An optional RVM deployment contract is described in [the deployment notes](docs/rvm.md); runtime execution requires separate validation.
 
+## Release verification
+
+Registry installation passed on Node.js 20 and 24, and 16 tests passed at the published source revision. Both README SVG URLs returned HTTP 200 with `image/svg+xml`. [Release receipt](docs/release-2026-10-11.md) · [GitHub release](https://github.com/ruvnet/readme-proof/releases/tag/v0.1.0-next.0) · [public report](https://gist.github.com/ruvnet/f3c6bac76f9a38d01328413a312b3bc2).
+
 ## Tests and benchmarks
 
-Run `npm test` and `npm run benchmark`. One captured local run on October 11, 2026 measured mean times of **16.64 ms uncached and 14.81 ms cached** per 1,000 identical analyses across ten alternating samples: **10.99% lower mean time**. The result is specific to repeated identical input and this run; it is not an algorithmic improvement or a general speed guarantee. Held out fixture equality checks passed. [Raw samples and limitations](docs/validation.md).
+Run `npm test` and `npm run benchmark`. One historical local run on October 11, 2026, before subsequent parser hardening, measured mean times of **16.64 ms uncached and 14.81 ms cached** per 1,000 identical analyses across ten alternating samples: **10.99% lower mean time**. The result is specific to repeated identical input and this run; it is not an algorithmic improvement or a general speed guarantee. Held out fixture equality checks passed. [Raw samples and limitations](docs/validation.md).
 
 The optional evolution module calls the real `@metaharness/darwin@0.10.3` Pareto routine to compare supplied matched metrics. It returns proposals only. Autogenous integration is a contract representation, not an executed runtime. Synthetic tests and supplied metrics do not establish real reader usability or trusted performance evidence.
 
