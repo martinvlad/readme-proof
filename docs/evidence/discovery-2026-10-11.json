@@ -1,0 +1,591 @@
+{
+  "schemaVersion": 1,
+  "fetchedAt": "2026-10-11T17:47:29.593Z",
+  "records": [
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "3dd4611774b65d463ec444ac34ed7f906f3b4182a40f03bd49757d9d5ea5fb70",
+      "source": "hn"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50042219.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "f082085c2d06fd806c11973419d340a83b7ad78d9619370740c38109d74a25d7",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50043689.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "b80bd709a1b7380cacaa6d4b33465d34f43e9e8aca2795d0f75c9e948af6bf0e",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50042425.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "40167b90d65c41485b63132df63b9c240192baf81ca8bdcf066f98875f57bfb4",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50040276.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "2ead857222111ea23606323efc70b2e45d532592dc800b15ad10ce9c2c79a693",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50044272.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "f8d8d693c2cadc3d91183539fe04be61a07200c9d0dd6c9b4d0dc69c0d63f32f",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50042333.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "e7fd0d7373940305a08eff08baf074129c30164376c05af1ce1be254094bc879",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50042362.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "6c8fda9bb70095744e177d701de5586269b841b259459fc686090637d612edf3",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50045273.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "e07c4fb1286473872be4163df8e4fd9e379cb0d10147e8f2c433e7f2c08f14ef",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50028647.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "84f071485d12bc53969d4e9d3c9b3e3669619a444e8b26b65c834f656477460e",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50044715.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "e568456bc8ec118795a01b3fff1f272b752a1310a75859cffa7a1e2d3c4021e6",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50041682.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "11bbb788d635f78406a465aaa015907979f4ec34300be18ade36816e94899c76",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50041540.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "72c172e1fd032e965751c3a729b7e2cc4742a10927de25c3e9b85ab21c02eb4c",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50040547.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "803fc805826683406cb6818c436e7247e4111b09dbcb4f5a63f0c65e58095885",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/49991852.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "a1e96a6083fd87667cea1fec7ed27a43eefe7c95272e1379daba8b8909835999",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50036864.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "3e66318993f2a9d50b353beaff091d9724d571c8a0816ac98ec61596f0170a7a",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50042330.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "error",
+      "untrustedData": true,
+      "sha256": "37cf0f96bba997ac2b987096eb1a8f9af404300dfd7a09c6779904a5b355a069",
+      "source": "hn-item",
+      "error": "Invalid HN item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50037949.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "f625451904a673e0ad979ff283bcb2759e9f929111f4905918ff54b785423952",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50028264.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "acb88f292281676a9647d5ef84ee5570a678c174befb091d23afc3a5fbf47124",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50029487.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "7334911e841a39d25e7d3f75eec9097a8ec360284834c8a2f6db989c133e2fab",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://hacker-news.firebaseio.com/v0/item/50043682.json",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "24a3f0d0b58f7048109f0793674ceb193e7171629e51266ff4dd4bb3b4c10196",
+      "source": "hn-item"
+    },
+    {
+      "url": "https://huggingface.co/api/daily_papers",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "error",
+      "untrustedData": true,
+      "error": "Unavailable, malformed, redirected, oversized, truncated or timed out",
+      "source": "papers"
+    },
+    {
+      "url": "https://export.arxiv.org/api/query?search_query=all%3Asoftware%20agents&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "b9e8d432af484c983189b3dd1eb4f06f7eaa22b62abb207d99710dadfff07a7e",
+      "source": "arxiv"
+    },
+    {
+      "url": "https://api.github.com/repos/ruvnet/ruflo/releases?per_page=5",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "89579a180aaab3adba937a45f24cdcc094538ce3cf8de841e897284e18228685",
+      "source": "ruflo"
+    },
+    {
+      "url": "https://api.github.com/repos/ruvnet/metaharness/releases?per_page=5",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "c994e1a1c8f511425ba8afc799476927e2daf44d87a35533eef10649453ce1f2",
+      "source": "metaharness"
+    },
+    {
+      "url": "https://api.github.com/repos/ruvnet/autogenous/releases?per_page=5",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "4474ede265e4e527c95304e9cb1518151dd1c9c01e98e4fc22cdfeef74acbc47",
+      "source": "autogenous"
+    },
+    {
+      "url": "https://www.producthunt.com/feed",
+      "fetchedAt": "2026-10-11T17:47:29.593Z",
+      "status": "ok",
+      "untrustedData": true,
+      "sha256": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87",
+      "source": "producthunt"
+    }
+  ],
+  "entries": [
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://news.ycombinator.com/item?id=50042219",
+      "linkedUrl": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "publishedAt": "2026-10-11T11:47:29.000Z",
+      "points": 278,
+      "comments": 143,
+      "evidenceKind": "trend",
+      "sourceDigest": "f082085c2d06fd806c11973419d340a83b7ad78d9619370740c38109d74a25d7"
+    },
+    {
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://news.ycombinator.com/item?id=50043689",
+      "linkedUrl": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "publishedAt": "2026-10-11T14:29:07.000Z",
+      "points": 64,
+      "comments": 16,
+      "evidenceKind": "trend",
+      "sourceDigest": "b80bd709a1b7380cacaa6d4b33465d34f43e9e8aca2795d0f75c9e948af6bf0e"
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://news.ycombinator.com/item?id=50042425",
+      "linkedUrl": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "publishedAt": "2026-10-11T12:13:13.000Z",
+      "points": 150,
+      "comments": 83,
+      "evidenceKind": "trend",
+      "sourceDigest": "40167b90d65c41485b63132df63b9c240192baf81ca8bdcf066f98875f57bfb4"
+    },
+    {
+      "title": "LineageOS 24.0",
+      "url": "https://news.ycombinator.com/item?id=50040276",
+      "linkedUrl": "https://lineageos.org/Changelog-32/",
+      "publishedAt": "2026-10-11T06:18:59.000Z",
+      "points": 317,
+      "comments": 110,
+      "evidenceKind": "trend",
+      "sourceDigest": "2ead857222111ea23606323efc70b2e45d532592dc800b15ad10ce9c2c79a693"
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "https://news.ycombinator.com/item?id=50044272",
+      "linkedUrl": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "publishedAt": "2026-10-11T15:21:58.000Z",
+      "points": 29,
+      "comments": 9,
+      "evidenceKind": "trend",
+      "sourceDigest": "f8d8d693c2cadc3d91183539fe04be61a07200c9d0dd6c9b4d0dc69c0d63f32f"
+    },
+    {
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://news.ycombinator.com/item?id=50042333",
+      "linkedUrl": "https://betterwispr.com/",
+      "publishedAt": "2026-10-11T12:01:28.000Z",
+      "points": 73,
+      "comments": 38,
+      "evidenceKind": "trend",
+      "sourceDigest": "e7fd0d7373940305a08eff08baf074129c30164376c05af1ce1be254094bc879"
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://news.ycombinator.com/item?id=50042362",
+      "linkedUrl": "https://verdagon.dev/blog/valen-group-borrowing",
+      "publishedAt": "2026-10-11T12:06:22.000Z",
+      "points": 83,
+      "comments": 36,
+      "evidenceKind": "trend",
+      "sourceDigest": "6c8fda9bb70095744e177d701de5586269b841b259459fc686090637d612edf3"
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://news.ycombinator.com/item?id=50045273",
+      "linkedUrl": "https://github.com/rogerbinns/apsw",
+      "publishedAt": "2026-10-11T16:58:22.000Z",
+      "points": 3,
+      "comments": 0,
+      "evidenceKind": "trend",
+      "sourceDigest": "e07c4fb1286473872be4163df8e4fd9e379cb0d10147e8f2c433e7f2c08f14ef"
+    },
+    {
+      "title": "The RAM shortage is bringing back DDR4",
+      "url": "https://news.ycombinator.com/item?id=50028647",
+      "linkedUrl": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "publishedAt": "2026-10-10T01:37:08.000Z",
+      "points": 198,
+      "comments": 182,
+      "evidenceKind": "trend",
+      "sourceDigest": "84f071485d12bc53969d4e9d3c9b3e3669619a444e8b26b65c834f656477460e"
+    },
+    {
+      "title": "How to Build Wealth as a Career Person",
+      "url": "https://news.ycombinator.com/item?id=50044715",
+      "linkedUrl": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "publishedAt": "2026-10-11T16:03:58.000Z",
+      "points": 12,
+      "comments": 5,
+      "evidenceKind": "trend",
+      "sourceDigest": "e568456bc8ec118795a01b3fff1f272b752a1310a75859cffa7a1e2d3c4021e6"
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://news.ycombinator.com/item?id=50041682",
+      "linkedUrl": "https://nitter.net",
+      "publishedAt": "2026-10-11T10:37:55.000Z",
+      "points": 337,
+      "comments": 160,
+      "evidenceKind": "trend",
+      "sourceDigest": "11bbb788d635f78406a465aaa015907979f4ec34300be18ade36816e94899c76"
+    },
+    {
+      "title": "IRCv3",
+      "url": "https://news.ycombinator.com/item?id=50041540",
+      "linkedUrl": "https://ircv3.net/",
+      "publishedAt": "2026-10-11T10:11:27.000Z",
+      "points": 246,
+      "comments": 220,
+      "evidenceKind": "trend",
+      "sourceDigest": "72c172e1fd032e965751c3a729b7e2cc4742a10927de25c3e9b85ab21c02eb4c"
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://news.ycombinator.com/item?id=50040547",
+      "linkedUrl": "https://status.yandex.cloud/en/incidents/2136",
+      "publishedAt": "2026-10-11T07:34:45.000Z",
+      "points": 417,
+      "comments": 506,
+      "evidenceKind": "trend",
+      "sourceDigest": "803fc805826683406cb6818c436e7247e4111b09dbcb4f5a63f0c65e58095885"
+    },
+    {
+      "title": "2D Vehicles",
+      "url": "https://news.ycombinator.com/item?id=49991852",
+      "linkedUrl": "https://patkerr.co.uk/2d-vehicles/",
+      "publishedAt": "2026-10-07T12:30:40.000Z",
+      "points": 580,
+      "comments": 111,
+      "evidenceKind": "trend",
+      "sourceDigest": "a1e96a6083fd87667cea1fec7ed27a43eefe7c95272e1379daba8b8909835999"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://news.ycombinator.com/item?id=50036864",
+      "linkedUrl": "https://housing.over.pizza/",
+      "publishedAt": "2026-10-10T20:31:50.000Z",
+      "points": 482,
+      "comments": 160,
+      "evidenceKind": "trend",
+      "sourceDigest": "3e66318993f2a9d50b353beaff091d9724d571c8a0816ac98ec61596f0170a7a"
+    },
+    {
+      "title": "Build your own decision model",
+      "url": "https://news.ycombinator.com/item?id=50037949",
+      "linkedUrl": "https://nishtahir.com/build-your-own-decision-model/",
+      "publishedAt": "2026-10-10T22:50:10.000Z",
+      "points": 428,
+      "comments": 97,
+      "evidenceKind": "trend",
+      "sourceDigest": "f625451904a673e0ad979ff283bcb2759e9f929111f4905918ff54b785423952"
+    },
+    {
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://news.ycombinator.com/item?id=50028264",
+      "linkedUrl": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "publishedAt": "2026-10-10T00:34:34.000Z",
+      "points": 16,
+      "comments": 4,
+      "evidenceKind": "trend",
+      "sourceDigest": "acb88f292281676a9647d5ef84ee5570a678c174befb091d23afc3a5fbf47124"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "url": "https://news.ycombinator.com/item?id=50029487",
+      "linkedUrl": "https://lightbulbcomputer.com/",
+      "publishedAt": "2026-10-10T04:12:26.000Z",
+      "points": 545,
+      "comments": 92,
+      "evidenceKind": "trend",
+      "sourceDigest": "7334911e841a39d25e7d3f75eec9097a8ec360284834c8a2f6db989c133e2fab"
+    },
+    {
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "url": "https://news.ycombinator.com/item?id=50043682",
+      "linkedUrl": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "publishedAt": "2026-10-11T14:28:39.000Z",
+      "points": 325,
+      "comments": 167,
+      "evidenceKind": "trend",
+      "sourceDigest": "24a3f0d0b58f7048109f0793674ceb193e7171629e51266ff4dd4bb3b4c10196"
+    },
+    {
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "publishedAt": "2026-10-08T17:59:50.000Z",
+      "evidenceKind": "research",
+      "sourceDigest": "b9e8d432af484c983189b3dd1eb4f06f7eaa22b62abb207d99710dadfff07a7e"
+    },
+    {
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "publishedAt": "2026-10-08T17:59:49.000Z",
+      "evidenceKind": "research",
+      "sourceDigest": "b9e8d432af484c983189b3dd1eb4f06f7eaa22b62abb207d99710dadfff07a7e"
+    },
+    {
+      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "url": "http://arxiv.org/abs/2610.12464v1",
+      "publishedAt": "2026-10-08T17:59:49.000Z",
+      "evidenceKind": "research",
+      "sourceDigest": "b9e8d432af484c983189b3dd1eb4f06f7eaa22b62abb207d99710dadfff07a7e"
+    },
+    {
+      "title": "Mental-Models for Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2610.12453v1",
+      "publishedAt": "2026-10-08T17:59:01.000Z",
+      "evidenceKind": "research",
+      "sourceDigest": "b9e8d432af484c983189b3dd1eb4f06f7eaa22b62abb207d99710dadfff07a7e"
+    },
+    {
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "publishedAt": "2026-10-08T17:58:56.000Z",
+      "evidenceKind": "research",
+      "sourceDigest": "b9e8d432af484c983189b3dd1eb4f06f7eaa22b62abb207d99710dadfff07a7e"
+    },
+    {
+      "title": "v3.56.6 — Windows hook launch fix, SessionStart risk scanner, cli-core/shared fixes",
+      "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.56.6",
+      "publishedAt": "2026-10-11T16:49:28.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "89579a180aaab3adba937a45f24cdcc094538ce3cf8de841e897284e18228685"
+    },
+    {
+      "title": "v3.56.5 — graph header sniff keeps SQLite locks",
+      "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.56.5",
+      "publishedAt": "2026-10-11T02:13:43.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "89579a180aaab3adba937a45f24cdcc094538ce3cf8de841e897284e18228685"
+    },
+    {
+      "title": "v3.56.4 — plugin-trust and helper security hardening, MCP/task fixes",
+      "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.56.4",
+      "publishedAt": "2026-10-11T01:08:38.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "89579a180aaab3adba937a45f24cdcc094538ce3cf8de841e897284e18228685"
+    },
+    {
+      "title": "v3.56.3 — AgentDB alpha.20, memory 3.0.3, sql.js lock guard",
+      "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.56.3",
+      "publishedAt": "2026-10-09T22:14:30.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "89579a180aaab3adba937a45f24cdcc094538ce3cf8de841e897284e18228685"
+    },
+    {
+      "title": "v3.56.2 — task_update status validation",
+      "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.56.2",
+      "publishedAt": "2026-10-09T17:28:22.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "89579a180aaab3adba937a45f24cdcc094538ce3cf8de841e897284e18228685"
+    },
+    {
+      "title": "v0.4.17 — dream-cycle security and correctness fixes",
+      "url": "https://github.com/ruvnet/metaharness/releases/tag/v0.4.17",
+      "publishedAt": "2026-09-26T15:48:18.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "c994e1a1c8f511425ba8afc799476927e2daf44d87a35533eef10649453ce1f2"
+    },
+    {
+      "title": "v0.4.4 — Catch-up release: Darwin evolution, the Flywheel, security hardening, and 115 PRs since v0.1.3",
+      "url": "https://github.com/ruvnet/metaharness/releases/tag/v0.4.4",
+      "publishedAt": "2026-08-10T19:12:52.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "c994e1a1c8f511425ba8afc799476927e2daf44d87a35533eef10649453ce1f2"
+    },
+    {
+      "title": "ADR-240 — AGNTCY identity, OASF export, observability, CASA compiler",
+      "url": "https://github.com/ruvnet/metaharness/releases/tag/adr-240-agntcy-outshift-integration",
+      "publishedAt": "2026-07-31T05:17:08.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "c994e1a1c8f511425ba8afc799476927e2daf44d87a35533eef10649453ce1f2"
+    },
+    {
+      "title": "v0.1.3 — Every scaffold ships .claude-plugin/plugin.json",
+      "url": "https://github.com/ruvnet/metaharness/releases/tag/v0.1.3",
+      "publishedAt": "2026-06-14T16:48:00.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "c994e1a1c8f511425ba8afc799476927e2daf44d87a35533eef10649453ce1f2"
+    },
+    {
+      "title": "radio-moe v0.3.1 — Cognitum Spaces",
+      "url": "https://github.com/ruvnet/autogenous/releases/tag/radio-moe-v0.3.1",
+      "publishedAt": "2026-08-19T19:19:14.000Z",
+      "evidenceKind": "integration-release",
+      "sourceDigest": "4474ede265e4e527c95304e9cb1518151dd1c9c01e98e4fc22cdfeef74acbc47"
+    },
+    {
+      "title": "Ghost Core",
+      "url": "tag:www.producthunt.com,2005:Post/1270791",
+      "publishedAt": "2026-10-05T17:44:06.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "FocusWrite",
+      "url": "tag:www.producthunt.com,2005:Post/1275628",
+      "publishedAt": "2026-10-10T07:08:24.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "Poke Finder",
+      "url": "tag:www.producthunt.com,2005:Post/1270515",
+      "publishedAt": "2026-10-05T13:10:39.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "Foley",
+      "url": "tag:www.producthunt.com,2005:Post/1270101",
+      "publishedAt": "2026-10-05T06:48:55.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "Automations in Perplexity Computer",
+      "url": "tag:www.producthunt.com,2005:Post/1264842",
+      "publishedAt": "2026-09-29T16:52:38.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "Ayven",
+      "url": "tag:www.producthunt.com,2005:Post/1246034",
+      "publishedAt": "2026-09-09T18:19:36.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "HireKey",
+      "url": "tag:www.producthunt.com,2005:Post/1267423",
+      "publishedAt": "2026-10-02T08:43:03.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "Agibot",
+      "url": "tag:www.producthunt.com,2005:Post/1275891",
+      "publishedAt": "2026-10-10T13:04:39.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "kōdlo",
+      "url": "tag:www.producthunt.com,2005:Post/1272499",
+      "publishedAt": "2026-10-07T09:46:27.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    },
+    {
+      "title": "shippedit.me",
+      "url": "tag:www.producthunt.com,2005:Post/1273246",
+      "publishedAt": "2026-10-08T01:41:14.000Z",
+      "evidenceKind": "launch",
+      "sourceDigest": "ac72b3525c06b0ce623a2f7af529c1ce3c6bed2805c2aaffd99bd9b7ff948f87"
+    }
+  ],
+  "notice": "All source content is untrusted data. Trend, research, integration release and launch evidence are distinct. Neither popularity nor a paper establishes SOTA or product demand."
+}
