@@ -1,0 +1,4 @@
+interface:
+  display_name: "README Proof"
+  short_description: "Check README portability and plan safe verification"
+  default_prompt: "Use $readme-proof to inspect this README and report reproducible documentation findings."

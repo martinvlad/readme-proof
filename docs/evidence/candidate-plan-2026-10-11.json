@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "frozenAt": "2026-10-11T17:47:29.593Z",
+  "discoveryDigest": "44c43497e15409bb59c63064ce18cd94f5fe02476b2e61b1ed92504a74a35e69",
+  "rankingMethod": "Equal-weight 0..5 heuristic for utility, demand, feasibility, reuse and novelty. Editorial priors are explicit, demand comes from recent HN evidence. No viral guarantee.",
+  "candidates": [
+    {
+      "slug": "readme-proof",
+      "description": "Local README link and asset verification with bounded checks and release receipts",
+      "scores": {
+        "utility": 5,
+        "demand": 3.63,
+        "feasibility": 5,
+        "reuse": 4,
+        "novelty": 3
+      },
+      "score": 20.63,
+      "evidence": [
+        {
+          "url": "https://news.ycombinator.com/item?id=50042219",
+          "sourceDigest": "f082085c2d06fd806c11973419d340a83b7ad78d9619370740c38109d74a25d7",
+          "publishedAt": "2026-10-11T11:47:29.000Z",
+          "points": 278,
+          "comments": 143
+        }
+      ],
+      "eligible": true
+    },
+    {
+      "slug": "mcp-contract-proof",
+      "description": "MCP contract fixtures and resource compatibility checks",
+      "scores": {
+        "utility": 4,
+        "demand": 0,
+        "feasibility": 4,
+        "reuse": 5,
+        "novelty": 2
+      },
+      "score": 15,
+      "evidence": [],
+      "eligible": false
+    },
+    {
+      "slug": "agent-budget-proof",
+      "description": "Reproducible agent budget and latency receipts",
+      "scores": {
+        "utility": 4,
+        "demand": 0,
+        "feasibility": 3,
+        "reuse": 4,
+        "novelty": 3
+      },
+      "score": 14,
+      "evidence": [],
+      "eligible": false
+    }
+  ],
+  "selected": "readme-proof",
+  "executionAuthorized": false,
+  "promotionState": "draft",
+  "requiredGates": [
+    "register exact repository and package identity",
+    "independent review",
+    "reproducible held-out benchmark and regression tests",
+    "security and artifact checks",
+    "verify registry install and public assets",
+    "record actual promotion result"
+  ],
+  "planDigest": "cd23bb639870785461ee01cc206936b75d55e2b47b548e5200237e385186bec7"
+}
