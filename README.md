@@ -37,6 +37,8 @@ Choose **npm** when the README will be displayed outside its repository, or **Gi
 
 ## Browser
 
+[Watch the 28-second walkthrough](https://github.com/ruvnet/readme-proof/releases/download/v0.1.0-next.0/readme-proof-demo.mp4), made from actual product footage with editable native graphics and an instrumental soundtrack.
+
 Serve this repository as static files and open `ui/`. Paste or upload a README, select the publication target, inspect findings and download JSON. The browser imports the same analyzer as the CLI. README text stays in the browser; the UI does not send it to an analysis API. Opening the HTML directly through a `file:` URL may block JavaScript module imports, so use an HTTP static server.
 
 ## MCP and skills
