@@ -1,6 +1,6 @@
 # Product Hunt launch kit
 
-Status: draft assets only. No submission, scheduling, voting or external posting has occurred.
+Status: a Product Hunt draft was created on October 11, 2026. It is not scheduled for launch. The user explicitly instructed that it remain a draft. No launch, voting or external promotional messages occurred. Draft: https://www.producthunt.com/products/readme-proof?launch=readme-proof
 
 ## Product name
 
